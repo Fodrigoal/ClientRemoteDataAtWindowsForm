@@ -1,0 +1,9 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\COMP2614Assign06\BusinessLib\bin\Debug\BusinessLib.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\COMP2614Assign06\BusinessLib\bin\Debug\BusinessLib.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\COMP2614Assign06\BusinessLib\obj\Debug\BusinessLib.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\COMP2614Assign06\BusinessLib\obj\Debug\BusinessLib.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\COMP2614Assign06\BusinessLib\obj\Debug\BusinessLib.pdb
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\BusinessLib\bin\Debug\BusinessLib.dll
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\BusinessLib\bin\Debug\BusinessLib.pdb
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\BusinessLib\obj\Debug\BusinessLib.dll
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\BusinessLib\obj\Debug\BusinessLib.pdb

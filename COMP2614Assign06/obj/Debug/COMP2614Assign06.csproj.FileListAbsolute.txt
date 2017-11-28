@@ -1,0 +1,27 @@
+c:\users\rodrigo\documents\visual studio 2015\Projects\COMP2614Assign06\COMP2614Assign06\bin\Debug\COMP2614Assign06.exe.config
+c:\users\rodrigo\documents\visual studio 2015\Projects\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.csprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2015\Projects\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.Properties.Resources.resources
+c:\users\rodrigo\documents\visual studio 2015\Projects\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.csproj.GenerateResource.Cache
+c:\users\rodrigo\documents\visual studio 2015\Projects\COMP2614Assign06\COMP2614Assign06\bin\Debug\COMP2614Assign06.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\COMP2614Assign06\COMP2614Assign06\bin\Debug\COMP2614Assign06.pdb
+c:\users\rodrigo\documents\visual studio 2015\Projects\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.pdb
+c:\users\rodrigo\documents\visual studio 2015\Projects\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.MainForm.resources
+c:\users\rodrigo\documents\visual studio 2015\Projects\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.ClientEditDialog.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\COMP2614Assign06\COMP2614Assign06\bin\Debug\BusinessLib.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\COMP2614Assign06\COMP2614Assign06\bin\Debug\BusinessLib.pdb
+C:\Users\Rodrigo\Documents\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\bin\Debug\COMP2614Assign06.exe.config
+C:\Users\Rodrigo\Documents\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.exe
+C:\Users\Rodrigo\Documents\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.pdb
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\bin\Debug\COMP2614Assign06.exe.config
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\bin\Debug\COMP2614Assign06.exe
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\bin\Debug\COMP2614Assign06.pdb
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\bin\Debug\BusinessLib.dll
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\bin\Debug\BusinessLib.pdb
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.ClientEditDialog.resources
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.MainForm.resources
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.Properties.Resources.resources
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.exe
+C:\Users\Rodrigo\OneDrive\BCIT\COMP2614\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.pdb
